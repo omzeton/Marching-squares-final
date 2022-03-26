@@ -1,0 +1,6 @@
+wasm/target
+wasm/pkg
+wasm/bin
+wasm/wasm-pack.log
+wasm/Cargo.lock
+node_modules
